@@ -31,7 +31,7 @@ examen-programacion-fronend/
 
 1. Clona este repositorio:
    ```bash
-   git clone <url-del-proyecto>
+   git clone https://github.com/rodofla/examen-programacion-fronend
    cd examen-programacion-fronend
    ```
 2. Instala dependencias:
