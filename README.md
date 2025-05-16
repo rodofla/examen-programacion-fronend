@@ -73,6 +73,9 @@ examen-programacion-fronend/
 ## 🌐 Despliegue
 
 El proyecto puede desplegarse fácilmente en Netlify, Vercel u otro servicio estático, apuntando al directorio generado por `npm run build`.
+El sitio está desplegado en Netlify.  
+Puedes verlo en vivo aquí:  
+[https://rodrigofloresexamen.netlify.app/](https://rodrigofloresexamen.netlify.app/)
 
 ---
 
